@@ -1,0 +1,59 @@
+main {
+  margin: 1rem 6rem 0rem 6rem;
+  background-color: rgb(206, 227, 246);
+  padding: 2rem;
+  width: 43.8rem;
+  height: 28rem;
+  border-radius: 6px;
+  font-family: "Roboto", sans-serif;
+  display: grid;
+  place-items: center;
+  
+}
+
+body {
+width: 42rem;
+height: 28rem;
+display: grid;
+place-items: center;
+}
+
+header {
+  width: 25rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  padding: 1rem 2rem 1rem 2rem;
+}
+
+
+img {
+  width: 10rem;
+  height: 8rem;
+  border-radius: 1rem;
+  }
+  
+  a {
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0rem 0rem 1rem 1rem;
+}
+
+footer {
+  width: 40rem;
+  height: 15rem;
+  margin: 0rem 5rem 0rem 5rem;
+  padding: 3rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
